@@ -1,0 +1,154 @@
+{
+  "1" : {
+    "dashboardOrder" : [ {
+      "id" : "chart1733102015383",
+      "x" : 0,
+      "y" : 0,
+      "width" : 6,
+      "height" : 4
+    }, {
+      "id" : "chart1733103220553",
+      "x" : 0,
+      "y" : 0,
+      "width" : 6,
+      "height" : 4
+    }, {
+      "id" : "chart1733103367942",
+      "x" : 0,
+      "y" : 0,
+      "width" : 6,
+      "height" : 4
+    }, {
+      "id" : "chart1733103694166",
+      "x" : 0,
+      "y" : 0,
+      "width" : 6,
+      "height" : 4
+    }, {
+      "id" : "chart1733103736304",
+      "x" : 0,
+      "y" : 0,
+      "width" : 6,
+      "height" : 4
+    }, {
+      "id" : "chart1733126937094",
+      "x" : 0,
+      "y" : 0,
+      "width" : 6,
+      "height" : 4
+    }, {
+      "id" : "chart1733262783723",
+      "x" : 0,
+      "y" : 0,
+      "width" : 6,
+      "height" : 4
+    }, {
+      "id" : "chart1733262935587",
+      "x" : 0,
+      "y" : 0,
+      "width" : 6,
+      "height" : 4
+    } ],
+    "charts" : {
+      "chart1733102015383" : {
+        "title" : "Cloud Provider Line Chart",
+        "type" : "line",
+        "xAxis" : "time",
+        "yAxis" : "consumption",
+        "dimension" : "CloudProvider",
+        "groupBy" : "month"
+      },
+      "chart1733103220553" : {
+        "title" : "Cloud Provider Bar Chart",
+        "type" : "bar",
+        "xAxis" : "time",
+        "yAxis" : "consumption",
+        "dimension" : "CloudProvider",
+        "groupBy" : "month"
+      },
+      "chart1733103367942" : {
+        "title" : "Cloud Provider Pie Chart",
+        "type" : "pie",
+        "xAxis" : "time",
+        "yAxis" : "consumption",
+        "dimension" : "CloudProvider",
+        "groupBy" : "month"
+      },
+      "chart1733103694166" : {
+        "title" : "Cloud Provider TreeMap",
+        "type" : "treeMap",
+        "xAxis" : "time",
+        "yAxis" : "consumption",
+        "dimension" : "CloudProvider",
+        "groupBy" : "month"
+      },
+      "chart1733103736304" : {
+        "title" : "Region Line Chart",
+        "type" : "line",
+        "xAxis" : "time",
+        "yAxis" : "consumption",
+        "dimension" : "Region",
+        "groupBy" : "month"
+      },
+      "chart1733126937094" : {
+        "title" : "Service Pie Chart",
+        "type" : "pie",
+        "xAxis" : "time",
+        "yAxis" : "consumption",
+        "dimension" : "Service",
+        "groupBy" : "month"
+      },
+      "chart1733262783723" : {
+        "title" : "FinancialDomain Line Chart",
+        "type" : "line",
+        "xAxis" : "time",
+        "yAxis" : "consumption",
+        "dimension" : "FinancialDomain",
+        "groupBy" : "month",
+        "maxDisplay" : "3"
+      },
+      "chart1733262935587" : {
+        "title" : "FinancialDomain Bar Chart",
+        "type" : "bar",
+        "xAxis" : "time",
+        "yAxis" : "consumption",
+        "dimension" : "FinancialDomain",
+        "groupBy" : "month",
+        "maxDisplay" : "3"
+      }
+    }
+  },
+  "2" : {
+    "dashboardOrder" : [ {
+      "id" : "chart4",
+      "x" : 0,
+      "y" : 0,
+      "width" : 6,
+      "height" : 4
+    }, {
+      "id" : "chart5",
+      "x" : 6,
+      "y" : 0,
+      "width" : 6,
+      "height" : 4
+    } ],
+    "charts" : {
+      "chart4" : {
+        "title" : "Resource Usage",
+        "type" : "area",
+        "xAxis" : "time",
+        "yAxis" : "usage",
+        "dimension" : "Account",
+        "groupBy" : "quarter"
+      },
+      "chart5" : {
+        "title" : "Cost Breakdown",
+        "type" : "table",
+        "xAxis" : "region",
+        "yAxis" : "cost",
+        "dimension" : "Region",
+        "groupBy" : "month"
+      }
+    }
+  }
+}

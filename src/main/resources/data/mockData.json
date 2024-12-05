@@ -1,0 +1,772 @@
+[
+  {
+    "date": "2023-01-11",
+    "providerName": "Google Cloud",
+    "region": "ap-southeast-1",
+    "accountId": "Account B",
+    "serviceName": "Storage",
+    "consumption": 204,
+    "domain": "Storage",
+    "budget": 800
+  },
+  {
+      "date": "2023-01-30",
+      "providerName": "AWS",
+      "region": "ap-southeast-1",
+      "accountId": "Account B",
+      "serviceName": "Storage",
+      "consumption": 204,
+      "domain": "Domain1",
+      "budget": 800
+   },
+	{
+	    "date": "2023-02-15",
+	    "providerName": "Google Cloud",
+	    "region": "ap-southeast-1",
+	    "accountId": "Account C",
+	    "serviceName": "Storage",
+	    "consumption": 204,
+	    "domain": "Domain2",
+	    "budget": 800
+	  },
+	  {
+	      "date": "2023-02-30",
+	      "providerName": "Azure",
+	      "region": "ap-southwest-2",
+	      "accountId": "Account B",
+	      "serviceName": "Storage",
+	      "consumption": 204,
+	      "domain": "Domain3",
+	      "budget": 800
+	    },
+		{
+		    "date": "2023-02-30",
+		    "providerName": "Google Cloud",
+		    "region": "ap-southeast-1",
+		    "accountId": "Account B",
+		    "serviceName": "Storage",
+		    "consumption": 204,
+		    "domain": "Domain4",
+		    "budget": 800
+		  },
+		  {
+		      "date": "2023-03-01",
+		      "providerName": "Google Cloud",
+		      "region": "ap-southeast-1",
+		      "accountId": "Account D",
+		      "serviceName": "Storage",
+		      "consumption": 204,
+		      "domain": "Domain5",
+		      "budget": 800
+		    },
+			{
+			    "date": "2023-03-30",
+			    "providerName": "Google Cloud",
+			    "region": "ap-southeast-1",
+			    "accountId": "Account B",
+			    "serviceName": "Storage",
+			    "consumption": 204,
+			    "domain": "Domain6",
+			    "budget": 800
+			  },
+			  {
+			      "date": "2023-04-11",
+			      "providerName": "AWS",
+			      "region": "ap-southeast-1",
+			      "accountId": "Account B",
+			      "serviceName": "Storage",
+			      "consumption": 204,
+			      "domain": "Domain7",
+			      "budget": 800
+			    },
+				{
+				    "date": "2023-05-11",
+				    "providerName": "Google Cloud",
+				    "region": "ap-southeast-1",
+				    "accountId": "Account D",
+				    "serviceName": "Storage",
+				    "consumption": 204,
+				    "domain": "Domain8",
+				    "budget": 800
+				  },
+				  {
+				      "date": "2023-05-30",
+				      "providerName": "Google Cloud",
+				      "region": "ap-southeast-1",
+				      "accountId": "Account B",
+				      "serviceName": "Storage",
+				      "consumption": 204,
+				      "domain": "Domain9",
+				      "budget": 800
+				    },
+					{
+					    "date": "2023-06-01",
+					    "providerName": "Google Cloud",
+					    "region": "ap-southeast-1",
+					    "accountId": "Account E",
+					    "serviceName": "Storage",
+					    "consumption": 204,
+					    "domain": "Domain10",
+					    "budget": 800
+					  },
+					  {
+					      "date": "2023-06-11",
+					      "providerName": "Google Cloud",
+					      "region": "ap-southeast-1",
+					      "accountId": "Account B",
+					      "serviceName": "Storage",
+					      "consumption": 204,
+					      "domain": "Domain1",
+					      "budget": 800
+					    },
+  {
+    "date": "2023-06-19",
+    "providerName": "Azure",
+    "region": "eu-central-1",
+    "accountId": "Account C",
+    "serviceName": "Compute",
+    "consumption": 146,
+    "domain": "Compute",
+    "budget": 100
+  },
+  {
+    "date": "2023-06-23",
+    "providerName": "Azure",
+    "region": "us-west-2",
+    "accountId": "Account A",
+    "serviceName": "Database",
+    "consumption": 857,
+    "domain": "Networking",
+    "budget": 900
+  },
+  {
+    "date": "2023-06-17",
+    "providerName": "AWS",
+    "region": "us-west-2",
+    "accountId": "Account C",
+    "serviceName": "Compute",
+    "consumption": 705,
+    "domain": "Database",
+    "budget": 700
+  },
+  {
+    "date": "2023-12-22",
+    "providerName": "AWS",
+    "region": "ap-southeast-1",
+    "accountId": "Account C",
+    "serviceName": "Networking",
+    "consumption": 864,
+    "domain": "Storage",
+    "budget": 800
+  },
+  {
+    "date": "2023-01-17",
+    "providerName": "Google Cloud",
+    "region": "ap-southeast-1",
+    "accountId": "Account A",
+    "serviceName": "Compute",
+    "consumption": 689,
+    "domain": "Storage",
+    "budget": 800
+  },
+  {
+    "date": "2023-03-09",
+    "providerName": "Google Cloud",
+    "region": "us-east-1",
+    "accountId": "Account B",
+    "serviceName": "Database",
+    "consumption": 666,
+    "domain": "Compute",
+    "budget": 1000
+  },
+  {
+    "date": "2023-01-16",
+    "providerName": "Azure",
+    "region": "ap-southeast-1",
+    "accountId": "Account B",
+    "serviceName": "Networking",
+    "consumption": 481,
+    "domain": "Networking",
+    "budget": 900
+  },
+  {
+    "date": "2023-05-08",
+    "providerName": "Google Cloud",
+    "region": "eu-central-1",
+    "accountId": "Account A",
+    "serviceName": "Networking",
+    "consumption": 593,
+    "domain": "Storage",
+    "budget": 800
+  },
+  {
+    "date": "2023-02-26",
+    "providerName": "Azure",
+    "region": "eu-central-1",
+    "accountId": "Account B",
+    "serviceName": "Compute",
+    "consumption": 695,
+    "domain": "Networking",
+    "budget": 900
+  },
+  {
+    "date": "2023-09-16",
+    "providerName": "Google Cloud",
+    "region": "ap-southeast-1",
+    "accountId": "Account B",
+    "serviceName": "Storage",
+    "consumption": 459,
+    "domain": "Compute",
+    "budget": 100
+  },
+  {
+    "date": "2023-07-11",
+    "providerName": "Azure",
+    "region": "us-east-1",
+    "accountId": "Account A",
+    "serviceName": "Database",
+    "consumption": 434,
+    "domain": "Compute",
+    "budget": 100
+  },
+  {
+    "date": "2023-04-02",
+    "providerName": "AWS",
+    "region": "us-east-1",
+    "accountId": "Account B",
+    "serviceName": "Networking",
+    "consumption": 602,
+    "domain": "Compute",
+    "budget": 100
+  },
+  {
+    "date": "2023-06-01",
+    "providerName": "Azure",
+    "region": "ap-southeast-1",
+    "accountId": "Account B",
+    "serviceName": "Database",
+    "consumption": 873,
+    "domain": "Storage",
+    "budget": 800
+  },
+  {
+    "date": "2023-02-24",
+    "providerName": "AWS",
+    "region": "ap-southeast-1",
+    "accountId": "Account A",
+    "serviceName": "Networking",
+    "consumption": 316,
+    "domain": "Compute",
+    "budget": 100
+  },
+  {
+    "date": "2023-02-20",
+    "providerName": "Azure",
+    "region": "eu-central-1",
+    "accountId": "Account B",
+    "serviceName": "Storage",
+    "consumption": 867,
+    "domain": "Storage",
+    "budget": 800
+  },
+  {
+    "date": "2023-04-27",
+    "providerName": "Google Cloud",
+    "region": "ap-southeast-1",
+    "accountId": "Account C",
+    "serviceName": "Networking",
+    "consumption": 262,
+    "domain": "Database",
+    "budget": 700
+  },
+  {
+    "date": "2023-07-02",
+    "providerName": "Azure",
+    "region": "eu-central-1",
+    "accountId": "Account C",
+    "serviceName": "Database",
+    "consumption": 920,
+    "domain": "Storage",
+    "budget": 800
+  },
+  {
+    "date": "2023-05-29",
+    "providerName": "Azure",
+    "region": "us-west-2",
+    "accountId": "Account C",
+    "serviceName": "Compute",
+    "consumption": 548,
+    "domain": "Storage",
+    "budget": 800
+  },
+  {
+    "date": "2023-03-18",
+    "providerName": "AWS",
+    "region": "us-west-2",
+    "accountId": "Account B",
+    "serviceName": "Database",
+    "consumption": 210,
+    "domain": "Storage",
+    "budget": 800
+  },
+  {
+    "date": "2023-05-04",
+    "providerName": "Azure",
+    "region": "eu-central-1",
+    "accountId": "Account B",
+    "serviceName": "Database",
+    "consumption": 472,
+    "domain": "Compute",
+    "budget": 100
+  },
+  {
+    "date": "2023-10-07",
+    "providerName": "Google Cloud",
+    "region": "ap-southeast-1",
+    "accountId": "Account C",
+    "serviceName": "Compute",
+    "consumption": 420,
+    "domain": "Compute",
+    "budget": 100
+  },
+  {
+    "date": "2023-04-08",
+    "providerName": "Google Cloud",
+    "region": "ap-southeast-1",
+    "accountId": "Account B",
+    "serviceName": "Compute",
+    "consumption": 604,
+    "domain": "Compute",
+    "budget": 100
+  },
+  {
+    "date": "2023-02-20",
+    "providerName": "Google Cloud",
+    "region": "ap-southeast-1",
+    "accountId": "Account A",
+    "serviceName": "Storage",
+    "consumption": 311,
+    "domain": "Storage",
+    "budget": 800
+  },
+  {
+    "date": "2023-04-04",
+    "providerName": "AWS",
+    "region": "us-west-2",
+    "accountId": "Account C",
+    "serviceName": "Networking",
+    "consumption": 556,
+    "domain": "Storage",
+    "budget": 800
+  },
+  {
+    "date": "2023-08-29",
+    "providerName": "AWS",
+    "region": "eu-central-1",
+    "accountId": "Account B",
+    "serviceName": "Database",
+    "consumption": 104,
+    "domain": "Networking",
+    "budget": 900
+  },
+  {
+    "date": "2023-09-29",
+    "providerName": "Azure",
+    "region": "us-west-2",
+    "accountId": "Account C",
+    "serviceName": "Networking",
+    "consumption": 250,
+    "domain": "Storage",
+    "budget": 800
+  },
+  {
+    "date": "2023-03-06",
+    "providerName": "Azure",
+    "region": "eu-central-1",
+    "accountId": "Account A",
+    "serviceName": "Storage",
+    "consumption": 593,
+    "domain": "Database",
+    "budget": 700
+  },
+  {
+    "date": "2023-08-28",
+    "providerName": "AWS",
+    "region": "ap-southeast-1",
+    "accountId": "Account B",
+    "serviceName": "Networking",
+    "consumption": 920,
+    "domain": "Networking",
+    "budget": 900
+  },
+  {
+    "date": "2023-11-04",
+    "providerName": "Google Cloud",
+    "region": "eu-central-1",
+    "accountId": "Account C",
+    "serviceName": "Compute",
+    "consumption": 839,
+    "domain": "Storage",
+    "budget": 800
+  },
+  {
+    "date": "2023-07-01",
+    "providerName": "AWS",
+    "region": "us-west-2",
+    "accountId": "Account C",
+    "serviceName": "Storage",
+    "consumption": 767,
+    "domain": "Storage",
+    "budget": 800
+  },
+  {
+    "date": "2023-07-17",
+    "providerName": "Azure",
+    "region": "ap-southeast-1",
+    "accountId": "Account C",
+    "serviceName": "Networking",
+    "consumption": 452,
+    "domain": "Storage",
+    "budget": 800
+  },
+  {
+    "date": "2023-06-18",
+    "providerName": "Google Cloud",
+    "region": "us-west-2",
+    "accountId": "Account B",
+    "serviceName": "Networking",
+    "consumption": 519,
+    "domain": "Networking",
+    "budget": 900
+  },
+  {
+    "date": "2023-12-09",
+    "providerName": "Azure",
+    "region": "ap-southeast-1",
+    "accountId": "Account A",
+    "serviceName": "Storage",
+    "consumption": 393,
+    "domain": "Networking",
+    "budget": 900
+  },
+  {
+    "date": "2023-03-30",
+    "providerName": "Azure",
+    "region": "eu-central-1",
+    "accountId": "Account A",
+    "serviceName": "Database",
+    "consumption": 217,
+    "domain": "Compute",
+    "budget": 100
+  },
+  {
+    "date": "2023-02-10",
+    "providerName": "Azure",
+    "region": "ap-southeast-1",
+    "accountId": "Account A",
+    "serviceName": "Storage",
+    "consumption": 515,
+    "domain": "Storage",
+    "budget": 800
+  },
+  {
+    "date": "2023-11-09",
+    "providerName": "AWS",
+    "region": "us-east-1",
+    "accountId": "Account C",
+    "serviceName": "Compute",
+    "consumption": 159,
+    "domain": "Storage",
+    "budget": 800
+  },
+  {
+    "date": "2023-02-20",
+    "providerName": "Azure",
+    "region": "ap-southeast-1",
+    "accountId": "Account C",
+    "serviceName": "Compute",
+    "consumption": 342,
+    "domain": "Database",
+    "budget": 700
+  },
+  {
+    "date": "2023-05-24",
+    "providerName": "AWS",
+    "region": "eu-central-1",
+    "accountId": "Account B",
+    "serviceName": "Database",
+    "consumption": 375,
+    "domain": "Networking",
+    "budget": 900
+  },
+  {
+    "date": "2023-01-11",
+    "providerName": "Azure",
+    "region": "eu-central-1",
+    "accountId": "Account A",
+    "serviceName": "Storage",
+    "consumption": 965,
+    "domain": "Networking",
+    "budget": 900
+  },
+  {
+    "date": "2023-07-24",
+    "providerName": "Google Cloud",
+    "region": "eu-central-1",
+    "accountId": "Account A",
+    "serviceName": "Compute",
+    "consumption": 659,
+    "domain": "Database",
+    "budget": 700
+  },
+  {
+    "date": "2023-04-09",
+    "providerName": "Google Cloud",
+    "region": "eu-central-1",
+    "accountId": "Account B",
+    "serviceName": "Storage",
+    "consumption": 708,
+    "domain": "Storage",
+    "budget": 800
+  },
+  {
+    "date": "2023-06-02",
+    "providerName": "Azure",
+    "region": "eu-central-1",
+    "accountId": "Account C",
+    "serviceName": "Compute",
+    "consumption": 741,
+    "domain": "Database",
+    "budget": 700
+  },
+  {
+    "date": "2023-11-05",
+    "providerName": "AWS",
+    "region": "ap-southeast-1",
+    "accountId": "Account B",
+    "serviceName": "Networking",
+    "consumption": 771,
+    "domain": "Database",
+    "budget": 700
+  },
+  {
+    "date": "2023-05-14",
+    "providerName": "AWS",
+    "region": "us-west-2",
+    "accountId": "Account A",
+    "serviceName": "Compute",
+    "consumption": 439,
+    "domain": "Compute",
+    "budget": 100
+  },
+  {
+    "date": "2023-09-09",
+    "providerName": "AWS",
+    "region": "us-west-2",
+    "accountId": "Account A",
+    "serviceName": "Compute",
+    "consumption": 444,
+    "domain": "Storage",
+    "budget": 800
+  },
+  {
+    "date": "2023-12-25",
+    "providerName": "Google Cloud",
+    "region": "us-west-2",
+    "accountId": "Account B",
+    "serviceName": "Database",
+    "consumption": 801,
+    "domain": "Networking",
+    "budget": 900
+  },
+  {
+    "date": "2023-01-18",
+    "providerName": "AWS",
+    "region": "us-east-1",
+    "accountId": "Account A",
+    "serviceName": "Compute",
+    "consumption": 332,
+    "domain": "Networking",
+    "budget": 900
+  },
+  {
+    "date": "2023-03-28",
+    "providerName": "Azure",
+    "region": "us-east-1",
+    "accountId": "Account A",
+    "serviceName": "Storage",
+    "consumption": 581,
+    "domain": "Networking",
+    "budget": 900
+  },
+  {
+    "date": "2023-08-20",
+    "providerName": "Google Cloud",
+    "region": "us-east-1",
+    "accountId": "Account A",
+    "serviceName": "Database",
+    "consumption": 877,
+    "domain": "Database",
+    "budget": 700
+  },
+  {
+      "date": "2024-01-11",
+      "providerName": "Google Cloud",
+      "region": "ap-southeast-1",
+      "accountId": "Account B",
+      "serviceName": "Storage",
+      "consumption": 204,
+      "domain": "Domain12",
+      "budget": 800
+    },
+    {
+        "date": "2024-01-30",
+        "providerName": "AWS",
+        "region": "ap-southeast-1",
+        "accountId": "Account B",
+        "serviceName": "Storage",
+        "consumption": 204,
+        "domain": "Domain13",
+        "budget": 800
+     },
+  	{
+  	    "date": "2024-02-15",
+  	    "providerName": "Google Cloud",
+  	    "region": "ap-southeast-1",
+  	    "accountId": "Account C",
+  	    "serviceName": "Storage",
+  	    "consumption": 204,
+  	    "domain": "Domain14",
+  	    "budget": 800
+  	  },
+  	  {
+  	      "date": "2024-02-30",
+  	      "providerName": "Azure",
+  	      "region": "ap-southwest-2",
+  	      "accountId": "Account B",
+  	      "serviceName": "Storage",
+  	      "consumption": 204,
+  	      "domain": "Domain15",
+  	      "budget": 800
+  	    },
+  		{
+  		    "date": "2024-02-30",
+  		    "providerName": "Google Cloud",
+  		    "region": "ap-southeast-1",
+  		    "accountId": "Account B",
+  		    "serviceName": "Storage",
+  		    "consumption": 204,
+  		    "domain": "Domain16",
+  		    "budget": 800
+  		  },
+  		  {
+  		      "date": "2024-03-01",
+  		      "providerName": "Google Cloud",
+  		      "region": "ap-southeast-1",
+  		      "accountId": "Account D",
+  		      "serviceName": "Storage",
+  		      "consumption": 204,
+  		      "domain": "Domain17",
+  		      "budget": 800
+  		    },
+  			{
+  			    "date": "2024-03-30",
+  			    "providerName": "Google Cloud",
+  			    "region": "ap-southeast-1",
+  			    "accountId": "Account B",
+  			    "serviceName": "Storage",
+  			    "consumption": 204,
+  			    "domain": "Domain18",
+  			    "budget": 800
+  			  },
+  			  {
+  			      "date": "2024-04-11",
+  			      "providerName": "AWS",
+  			      "region": "ap-southeast-1",
+  			      "accountId": "Account B",
+  			      "serviceName": "Storage",
+  			      "consumption": 204,
+  			      "domain": "Domain19",
+  			      "budget": 800
+  			    },
+  				{
+  				    "date": "2024-05-11",
+  				    "providerName": "Google Cloud",
+  				    "region": "ap-southeast-1",
+  				    "accountId": "Account D",
+  				    "serviceName": "Storage",
+  				    "consumption": 204,
+  				    "domain": "Domain20",
+  				    "budget": 800
+  				  },
+  				  {
+  				      "date": "2024-05-30",
+  				      "providerName": "Google Cloud",
+  				      "region": "ap-southeast-1",
+  				      "accountId": "Account B",
+  				      "serviceName": "Storage",
+  				      "consumption": 204,
+  				      "domain": "Domain21",
+  				      "budget": 800
+  				    },
+  					{
+  					    "date": "2024-06-01",
+  					    "providerName": "Google Cloud",
+  					    "region": "ap-southeast-1",
+  					    "accountId": "Account E",
+  					    "serviceName": "Storage",
+  					    "consumption": 204,
+  					    "domain": "Domain22",
+  					    "budget": 800
+  					  },
+  					  {
+  					      "date": "2024-06-11",
+  					      "providerName": "Google Cloud",
+  					      "region": "ap-southeast-1",
+  					      "accountId": "Account B",
+  					      "serviceName": "Storage",
+  					      "consumption": 204,
+  					      "domain": "Domain23",
+  					      "budget": 800
+  					    },
+    {
+      "date": "2024-06-19",
+      "providerName": "Azure",
+      "region": "eu-central-1",
+      "accountId": "Account C",
+      "serviceName": "Compute",
+      "consumption": 146,
+      "domain": "Domain24",
+      "budget": 100
+    },
+    {
+      "date": "2023-06-23",
+      "providerName": "Azure",
+      "region": "us-west-2",
+      "accountId": "Account A",
+      "serviceName": "Database",
+      "consumption": 857,
+      "domain": "Domain25",
+      "budget": 900
+    },
+    {
+      "date": "2023-06-17",
+      "providerName": "AWS",
+      "region": "us-west-2",
+      "accountId": "Account C",
+      "serviceName": "Compute",
+      "consumption": 705,
+      "domain": "Domain26",
+      "budget": 700
+    },
+    {
+      "date": "2023-12-22",
+      "providerName": "AWS",
+      "region": "ap-southeast-1",
+      "accountId": "Account C",
+      "serviceName": "Networking",
+      "consumption": 864,
+      "domain": "Domain27",
+      "budget": 800
+    }
+]
